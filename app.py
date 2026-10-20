@@ -22,7 +22,7 @@ st.set_page_config(
 )
 
 PROJECT_DIR = Path(__file__).resolve().parent
-DATASET_PATH = PROJECT_DIR / "dataset" / "jobs.csv"
+DATASET_PATH = PROJECT_DIR / "jobs.csv"
 
 
 # =========================================================
